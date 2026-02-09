@@ -365,7 +365,7 @@ input::placeholder{
     padding-bottom: 150px;
 }
 .request__inner{
-    background-image: url(../images/contact-bg.jpg);
+    background-image: url(../images/contact-bg.webp);
     background-position: center center;
     background-repeat: no-repeat;
     background-size: cover;
